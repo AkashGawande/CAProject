@@ -18,7 +18,7 @@ public partial class Head_Office_ClientsList : System.Web.UI.Page
     static ImageUpload IU = new ImageUpload();
     protected void Page_Load(object sender, EventArgs e)
     {
-        string Name = "Akash";
+        
     }
     //===================Start Bind IT FranchiseeID==========================
     [WebMethod]
